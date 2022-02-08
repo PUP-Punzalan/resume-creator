@@ -1,0 +1,33 @@
+[
+    {
+        'name:': 'AMADO NIÑO REI PUNZALAN',
+        'address': '135 Bulusan Street, La Loma, Quezon City',
+        'p_number': '(63+) 998 392 3804',
+        'e_mail': 'anrpunzalan@outlook.com',
+        'website': 'linkedin.com/in/anrpunzalan',
+        'skills': ['Graphic Design', 'Microsoft Office', 'Coding (Python)'],
+        
+        'experiences': [
+            {
+                'date': '2021 - Present',
+                'job_title': 'Freelance - Graphic Artist',
+                'description': 'I design 2D clothes in Roblox'
+            }
+        ],
+
+        'academic': [
+            {
+                'date': '2021 - Present',
+                'school_name': 'Polytechnic University of the Philippines',
+                'course': 'Bachelor of Science in Computer Engineering (BSCOE)',
+                'place': 'Sta. Mesa, Manila'
+            },
+            {
+                'date': '2019 - 2021',
+                'school_name': 'Polytechnic University of the Philippines',
+                'course': 'Accountancy, Business and Management (ABM)',
+                'place': 'Sta. Mesa, Manila'
+            }
+        ]
+    }
+]
