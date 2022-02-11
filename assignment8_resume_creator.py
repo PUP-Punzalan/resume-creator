@@ -8,7 +8,7 @@ pdf = FPDF('P', 'mm', 'Legal')
 pdf.add_page()
 
 # importing the json file as variable
-with open('datas.json') as data:
+with open('assignment8_data.json') as data:
     datas = json.load(data)
 
 for i in datas:
@@ -93,4 +93,4 @@ for i in datas:
     pdf.line(10, 192, 200, 192)
 
 # exporting the data to pdf
-pdf.output('resume.pdf')
+pdf.output('assignment8_resume.pdf')

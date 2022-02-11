@@ -58,6 +58,6 @@ datas = [
 ]
 
 export = json.dumps(datas, indent=4)
-with open('datas.json', 'w') as file:
+with open('assignment8_data.json', 'w') as file:
     file.write(export)
     file.close()
